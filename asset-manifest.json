@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Network-Stress-Test/static/css/main.2eeda74b.css",
+    "main.js": "/Network-Stress-Test/static/js/main.eb51503a.js",
+    "static/js/787.29af8fe6.chunk.js": "/Network-Stress-Test/static/js/787.29af8fe6.chunk.js",
+    "index.html": "/Network-Stress-Test/index.html",
+    "main.2eeda74b.css.map": "/Network-Stress-Test/static/css/main.2eeda74b.css.map",
+    "main.eb51503a.js.map": "/Network-Stress-Test/static/js/main.eb51503a.js.map",
+    "787.29af8fe6.chunk.js.map": "/Network-Stress-Test/static/js/787.29af8fe6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eeda74b.css",
+    "static/js/main.eb51503a.js"
+  ]
+}
