@@ -9,4 +9,4 @@ DOS from javascript can be reproduced and threats can be verified.
 
 # Generate Traffic
      
-     ![Screenshot](img.png)
+![Screenshot](img.png)
